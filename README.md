@@ -1,8 +1,7 @@
 # GoHomeToy
 
 ## ファイル構成
-*[Unityデータ](.ProjectDate/)
-*[ビルドデータ](./ScreenShot/)
+* [Unityデータ](./ProjectDate/)
 
 ## ジャンル
 横スクロールアクション
@@ -11,8 +10,8 @@
 [Windowsビルドデータ](https://drive.google.com/drive/folders/1vyW5iIr16wSZNQxAQksQwSOtSCcgmRcz)
 
 ## 担当プログラムファイル
-*[敵の視点の切り替え](./ProjectDate/Assets/Scripts/FunSearch.cs)
-*[ゲームシーンへの移行](./ProjectDate/Assets/Scripts/StartButton.cs)
+* [敵の視点の切り替え](./ProjectDate/Assets/Scripts/FunSearch.cs)
+* [ゲームシーンへの移行](./ProjectDate/Assets/Scripts/StartButton.cs)
 
 
 ## ゲームストーリー
@@ -28,9 +27,9 @@ Unity 2022.3.7f1
 2カ月
 
 ## メンバー(役割)
-*國吉蒼天 (プログラマー)
-*伊敷蒼 (プログラマー)
-*大城侑 (プランナー)
+* 國吉蒼天 (プログラマー)
+* 伊敷蒼 (プログラマー)
+* 大城侑 (プランナー)
 
 
 ## ゲームスクリーンショット
