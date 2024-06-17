@@ -1,13 +1,13 @@
 # GoHomeToy
 
 ## ファイル構成
-[Unityデータ](.ProjectDate/)
-[ビルドデータ](./ScreenShot/)
+*[Unityデータ](.ProjectDate/)
+*[ビルドデータ](./ScreenShot/)
 
 ## ジャンル
 横スクロールアクション
 
-## プラットフォーム
+## ビルドデータ
 [Windowsビルドデータ](https://drive.google.com/drive/folders/1vyW5iIr16wSZNQxAQksQwSOtSCcgmRcz)
 
 ## 担当プログラムファイル
